@@ -2,4 +2,4 @@
 - 👀 I’m interested in Ethereum stuff
 - 🌱 I’m currently learning ethers.js and viem
 - 💞️ I’m looking to collaborate on anything related to smart contracts
-- 📫 How to reach me- @red-panda on Farcaster. I am not actively using a personal Twitter account but @foamcaster is an account that I check regularly
+- 📫 How to reach me- @red-panda on Farcaster. I am not actively using a personal Twitter account but @foamcaster is an account that I check regularly. Also I can be reached via email at Deep_Sea_Penguin@protonmail.com
